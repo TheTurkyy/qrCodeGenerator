@@ -1,0 +1,5 @@
+# REQ and how to get them
+
+you need: 
+pip install tkinter
+pip install qrcode[pil] Pillow
